@@ -108,6 +108,26 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "prilbus",
+      "species": "brain slug",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "aurora nebbins",
+      "species": "dog?",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
